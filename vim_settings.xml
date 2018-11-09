@@ -1,0 +1,49 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1536733079731">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/io_projects/README.md" timestamp="1536829245883">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/barcode_scanner/nodes/barcode_scanner.py" timestamp="1536829499266">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/io_projects/projects/vive_tracker/CMakeLists.txt" timestamp="1536828974862">
+        <mark key="[" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/rplidar_ros/src/node.cpp" timestamp="1536733386234">
+        <mark key="[" line="163" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

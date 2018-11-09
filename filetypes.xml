@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="dockerfile" type="Dockerfile" />
+      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
+      <mapping pattern=".project" type="PLAIN_TEXT" />
+      <mapping pattern="CATKIN_IGNORE" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="cdefset" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="pmlex" type="XML" />
+      <mapping ext="pml" type="XML" />
+      <mapping ext="world" type="XML" />
+      <mapping ext="sdf" type="XML" />
+      <mapping ext="beh" type="XML" />
+      <mapping ext="rdefset" type="XML" />
+      <mapping ext="graph" type="XML" />
+      <mapping ext="rset" type="XML" />
+      <mapping ext="config" type="XML" />
+      <mapping ext="gazebo" type="XML" />
+      <mapping ext="tsk" type="XML" />
+    </extensionMap>
+  </component>
+</application>
