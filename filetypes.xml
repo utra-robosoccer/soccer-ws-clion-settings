@@ -10,6 +10,7 @@
       <mapping ext="cdefset" type="PLAIN_TEXT" />
       <mapping ext="action" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="pmlex" type="XML" />
       <mapping ext="pml" type="XML" />
       <mapping ext="beh" type="XML" />
