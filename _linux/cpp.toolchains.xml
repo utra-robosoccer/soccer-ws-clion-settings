@@ -1,0 +1,8 @@
+<application>
+  <component name="CPPToolchains" version="4">
+    <toolchains detectedVersion="5">
+      <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="Gandalf" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="b2e711fa-8cf8-4e28-b947-9df04edd1c10" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
+    </toolchains>
+  </component>
+</application>

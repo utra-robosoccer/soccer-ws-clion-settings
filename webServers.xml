@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b2e711fa-8cf8-4e28-b947-9df04edd1c10" name="Gandalf (b2e711fa-8cf8-4e28-b947-9df04edd1c10)" url="http:///">
+        <fileTransfer host="gandalf" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
