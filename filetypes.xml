@@ -4,28 +4,29 @@
       <mapping ext="dockerfile" type="Dockerfile" />
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
+      <mapping pattern="Jenkinsfile" type="JSON" />
       <mapping pattern="*cpp.em" type="ObjectiveC" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".project" type="PLAIN_TEXT" />
       <mapping pattern="CATKIN_IGNORE" type="PLAIN_TEXT" />
-      <mapping ext="action" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="odg" type="PLAIN_TEXT" />
-      <mapping ext="srv" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cdefset" type="PLAIN_TEXT" />
-      <mapping ext="msg" type="PLAIN_TEXT" />
+      <mapping ext="srv" type="PLAIN_TEXT" />
       <mapping ext="b" type="PLAIN_TEXT" />
-      <mapping ext="beh" type="XML" />
+      <mapping ext="msg" type="PLAIN_TEXT" />
+      <mapping ext="action" type="PLAIN_TEXT" />
       <mapping ext="pmlex" type="XML" />
-      <mapping ext="tsk" type="XML" />
+      <mapping ext="rset" type="XML" />
       <mapping ext="sdf" type="XML" />
-      <mapping ext="pml" type="XML" />
-      <mapping ext="world" type="XML" />
-      <mapping ext="rdefset" type="XML" />
       <mapping ext="config" type="XML" />
       <mapping ext="graph" type="XML" />
+      <mapping ext="tsk" type="XML" />
+      <mapping ext="pml" type="XML" />
+      <mapping ext="world" type="XML" />
+      <mapping ext="beh" type="XML" />
+      <mapping ext="rdefset" type="XML" />
       <mapping ext="gazebo" type="XML" />
-      <mapping ext="rset" type="XML" />
       <mapping ext="cfg" type="YAML" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
